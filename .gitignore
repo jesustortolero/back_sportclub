@@ -1,0 +1,97 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__
+
+# Ignore database files
+*.sqlite3
+
+# Ignore development environment files
+.env
+
+# Ignore virtual environment directories
+venv/
+env/
+# You can add more variations based on your environment setup.
+
+# Ignore static files
+/staticfiles/
+
+# Ignore media files
+/media/
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific settings files
+*.local.py
+*.prod.py
+*.test.py
+
+# Ignore secret keys and sensitive information
+*.secret_key
+
+# Ignore backup files
+*~
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore Docker-related files (if applicable)
+docker-compose.yml
+Dockerfile
+
+# Ignore pipenv or poetry files (if using)
+Pipfile
+Pipfile.lock
+pyproject.toml
+
+# Ignore node_modules (if using frontend technologies)
+node_modules/
+# Ignore compiled Python files
+*.pyc
+__pycache__
+
+# Ignore database files
+*.sqlite3
+
+# Ignore development environment files
+.env
+
+# Ignore virtual environment directories
+venv/
+env/
+# You can add more variations based on your environment setup.
+
+# Ignore static files
+/staticfiles/
+
+# Ignore media files
+/media/
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific settings files
+*.local.py
+*.prod.py
+*.test.py
+
+# Ignore secret keys and sensitive information
+*.secret_key
+
+# Ignore backup files
+*~
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore Docker-related files (if applicable)
+docker-compose.yml
+Dockerfile
+
+# Ignore pipenv or poetry files (if using)
+Pipfile
+Pipfile.lock
+pyproject.toml
